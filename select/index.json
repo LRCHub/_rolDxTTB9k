@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "daybreak syndrome",
+  "base_artist": "cinema staff",
+  "createdAt": "2026-02-10T08:12:56.384720Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Daybreak Syndrome",
+      "artist": "cinema staff",
+      "has_synced": true,
+      "path": "select/01_Daybreak_Syndrome_cinema_staff.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "daybreak syndrome",
+      "artist": "cinema staff",
+      "has_synced": false,
+      "path": "select/pl_01_daybreak_syndrome_cinema_staff.txt"
+    }
+  ]
+}
